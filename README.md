@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Pino Gonzalez</h1>
-<h3 align="center">Student and developer</h3>
+<h3 align="center">Student and Developer</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **stevenpino719@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
